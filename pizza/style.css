@@ -29,9 +29,10 @@ body{margin: 0;}
     content:" >"; /* go get a proper icon! */
 }
 .footer{
-    background-color: red;
+    background-color: blue;
     padding: 5px;
     text-align: center;
+    color: white;
 }
 .copyright{
     color: white;
