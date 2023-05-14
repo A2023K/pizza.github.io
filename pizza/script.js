@@ -31,7 +31,7 @@ let topping_options_array = [
   },
    {
         name: 'Mountain Goat Droppings',
-        img_src: ' ./images/somepicture.jpg',
+        img_src: './imgs/pic6.jpg',
         price: 5,
         special: true
     }
